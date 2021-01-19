@@ -288,6 +288,7 @@ def main():
                         break
             user_input = input("Input guess number: ")
             if user_input == "0":
+                play_flag = False
                 break
     # ==================================
     print("Thank you for using this program")
