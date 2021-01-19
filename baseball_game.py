@@ -8,7 +8,6 @@ def get_random_number():
     # 100부터 999까지 수를 램덤하게 반환함
     return random.randrange(100, 1000)
 
-
 def is_digit(user_input_number):
     # '''
     # Input:
